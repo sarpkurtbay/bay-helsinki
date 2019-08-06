@@ -1,0 +1,29 @@
+{
+  "name": "bay-helsinki",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarpkurtbay/bay-helsinki.git"
+  },
+  "author": "Sarp Kurtbay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarpkurtbay/bay-helsinki/issues"
+  },
+  "homepage": "https://github.com/sarpkurtbay/bay-helsinki#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-imagemin": "^6.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "node-sass": "^4.12.0"
+  },
+  "dependencies": {}
+}

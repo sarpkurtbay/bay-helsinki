@@ -1,0 +1,19 @@
+@import "typography";
+
+$primary-color: red;
+$heading-font: "Nord";
+$body-font: "Apercu";
+
+$body-size: 16px;
+
+$primary-background-color: red;
+$text-on-white: #000000;
+
+
+
+body {
+    font-family: $body-font;
+    background-color: $primary-background-color;
+    color: $text-on-white;
+    font-size: $body-size;
+}
